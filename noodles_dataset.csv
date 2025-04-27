@@ -1,0 +1,54 @@
+Country/Region,2018,2019,2020,2021,2022,Rank,CCA3,Country/Territory,Capital,Continent,2022 Population,Calories (per 100g),Carbohydrates (g),Protein (g),Fat (g),Sodium (mg),Variant Type,Sales Volume (Million Packs),Out-of-Stock Frequency (per month),Major Selling Channel,Price per Pack (₹),Discount Impact on Sales (%),Extra_Column_1,Extra_Column_2,Extra_Column_3,Extra_Column_4,Extra_Column_5,Extra_Column_6,Extra_Column_7,Extra_Column_8,Extra_Column_9,Extra_Column_10
+China,40250,41450,46360,43990,45070,1,CHN,China,Beijing,Asia,1425887337,429,57.7,8.9,21.8,941,Maggi Veg Atta Noodles,507,3,Retail,11.49,6.1,97,46,46,11,34,34,5,30,70,68
+Indonesia,12540,12520,12640,13270,14260,4,IDN,Indonesia,Jakarta,Asia,275501339,478,61.5,10.5,15.4,842,Maggi Whole Wheat Noodles,4525,4,Online,30.41,12.8,86,55,71,84,86,48,25,8,11,43
+India,6060,6730,6730,7560,7580,2,IND,India,New Delhi,Asia,1417173173,435,60.9,9.4,17.8,958,Maggi No Onion No Garlic,1674,0,Both,32.67,5.3,15,7,19,93,19,67,56,41,53,30
+Japan,5780,5630,5970,5850,5980,11,JPN,Japan,Tokyo,Asia,123951692,425,63,11.2,21.3,946,"Maggi Hot Heads (Peri Peri, Chilli Chicken, Barbeque Pepper)",1050,0,Both,27.21,16.5,58,22,34,52,77,89,58,44,16,21
+Philippines,3980,3850,4470,4440,4290,13,PHL,Philippines,Manila,Asia,115559009,443,55.9,7.2,17.1,1129,Maggi 2-Minute Noodles (Classic Masala),3363,4,Retail,48.03,12.1,79,91,98,29,71,19,27,94,15,88
+South Korea,3820,3900,4130,3790,3950,29,KOR,South Korea,Seoul,Asia,51815810,425,59.2,11.4,17.6,940,"Maggi Hot Heads (Peri Peri, Chilli Chicken, Barbeque Pepper)",3922,1,Online,42.67,19.9,85,31,76,67,8,49,15,79,68,48
+Thailand,3460,3570,3710,3630,3870,20,THA,Thailand,Bangkok,Asia,71697030,466,64.3,7.5,18.4,807,Maggi Oats Noodles,1995,0,Retail,11.75,13.6,17,73,94,65,79,35,46,71,11,80
+Brazil,2390,2420,2720,2850,2830,7,BRA,Brazil,Brasilia,South America,215313498,443,57.1,7.7,19.9,1196,"Maggi Hot Heads (Peri Peri, Chilli Chicken, Barbeque Pepper)",2206,2,Online,22.61,14.6,34,6,36,43,10,28,25,42,76,87
+Nigeria,1820,1920,2460,2620,2790,6,NGA,Nigeria,Abuja,Africa,218541212,441,56.4,10.4,19.2,929,Maggi Veg Atta Noodles,4619,4,Both,12.26,7.2,23,44,80,78,70,11,79,17,34,86
+Russia,1850,1910,2000,2100,2200,9,RUS,Russia,Moscow,Europe,144713314,431,55.9,7.7,20,1015,"Maggi Hot Heads (Peri Peri, Chilli Chicken, Barbeque Pepper)",1930,0,Online,39.76,11.4,91,70,61,20,32,18,7,19,72,74
+Nepal,1570,1640,1540,1590,1650,49,NPL,Nepal,Kathmandu,Asia,30547580,431,55.9,7.7,20,1015,"Maggi Hot Heads (Peri Peri, Chilli Chicken, Barbeque Pepper)",1930,0,Online,39.76,11.4,91,70,61,20,32,18,7,19,72,74
+Malaysia,1370,1450,1570,1580,1550,45,MYS,Malaysia,Kuala Lumpur,Asia,33938221,427,56.1,8.8,20.8,836,Maggi Nutri-licious Atta Masala,763,2,Online,17.47,16.3,51,99,26,18,45,85,93,70,19,18
+Mexico,1120,1170,1160,1360,1510,10,MEX,Mexico,Mexico City,North America,127504125,477,58.4,11.6,17,1155,Maggi Oats Noodles,3124,3,Online,37.23,11,67,46,74,58,41,67,56,57,75,69
+Taiwan,830,830,870,900,880,57,TWN,Taiwan,Taipei,Asia,23893394,448,62.7,8.6,19.4,1193,Maggi 2-Minute Noodles (Classic Masala),2386,0,Retail,40.57,13.6,30,25,31,29,68,60,53,66,98,49
+Saudi Arabia,550,560,830,850,870,41,SAU,Saudi Arabia,Riyadh,Asia,36408820,428,61.3,9.5,21.1,903,"Maggi Pazzta (Cheese Macaroni, Mushroom Penne, Spicy Tomato)",642,0,Retail,21.42,10.9,15,43,63,36,93,55,89,84,83,73
+Myanmar,600,620,660,760,770,26,MMR,Myanmar,Nay Pyi Taw,Asia,54179306,471,61.5,11.3,17.1,1180,Maggi Nutri-licious Oats Masala,4485,2,Online,42.04,10.5,53,15,89,39,18,88,52,12,52,59
+South Africa,260,280,350,410,480,24,ZAF,South Africa,Pretoria,Africa,59893885,424,55.8,9.4,18.6,975,Maggi Chicken Noodles,3826,0,Both,12.24,7.9,94,44,62,27,64,68,75,85,40,20
+Egypt,220,280,350,400,460,14,EGY,Egypt,Cairo,Africa,110990103,446,56.9,8,15.3,823,Maggi No Onion No Garlic,3106,2,Online,37.24,8.6,53,84,4,80,53,14,25,47,62,47
+Australia,410,420,440,450,450,55,AUS,Australia,Canberra,Oceania,26177413,451,61.8,7.8,19.9,1193,"Maggi Fusian (Singaporean Tangy, Bangkok Sweet Chili, Hong Kong Spicy Garlic)",731,0,Retail,26.18,14.4,77,30,15,90,23,8,89,94,49,98
+Bangladesh,310,370,370,430,440,8,BGD,Bangladesh,Dhaka,Asia,171186372,428,63.2,9.6,20.1,869,Maggi Special Masala,2427,0,Retail,40.85,9.8,80,3,26,79,94,87,97,34,59,7
+Turkey,80,120,190,360,420,18,TUR,Turkey,Ankara,Asia,85341241,424,63.4,8.2,20.4,846,Maggi Desi Cheesy Masala,526,4,Retail,41.14,8.8,18,73,49,75,45,17,92,39,84,27
+Cambodia,330,350,370,410,400,73,KHM,Cambodia,Phnom Penh,Asia,16767842,424,63.4,8.2,20.4,846,Maggi Desi Cheesy Masala,526,4,Retail,41.14,8.8,18,73,49,75,45,17,92,39,84,27
+Germany,320,330,370,390,390,19,DEU,Germany,Berlin,Europe,83369843,428,56.5,7.5,17.7,874,Maggi Chatpata Masala,3391,4,Both,28.08,15.2,36,24,5,76,40,3,86,24,41,48
+Poland,310,310,330,340,380,37,POL,Poland,Warsaw,Europe,39857145,466,60.3,9.8,20.8,1015,"Maggi Fusian (Singaporean Tangy, Bangkok Sweet Chili, Hong Kong Spicy Garlic)",3966,1,Online,30.93,16,62,57,49,24,33,89,40,27,7,84
+Kazakhstan,170,250,280,320,360,66,KAZ,Kazakhstan,Nursultan,Asia,19397998,479,57.7,8.7,16.7,1197,"Maggi Fusian (Singaporean Tangy, Bangkok Sweet Chili, Hong Kong Spicy Garlic)",3800,0,Retail,21.24,16.8,22,75,11,2,93,67,50,41,61,91
+Guatemala,230,250,260,270,280,68,GTM,Guatemala,Guatemala City,North America,17843908,479,57.7,8.7,16.7,1197,"Maggi Fusian (Singaporean Tangy, Bangkok Sweet Chili, Hong Kong Spicy Garlic)",3800,0,Retail,21.24,16.8,22,75,11,2,93,67,50,41,61,91
+Pakistan,190,200,220,230,240,5,PAK,Pakistan,Islamabad,Asia,235824862,431,59.9,8.7,18.6,1031,Maggi Desi Cheesy Masala,2724,3,Both,49.95,10.6,35,96,10,74,65,55,21,24,26,57
+Uzbekistan,170,210,210,210,210,43,UZB,Uzbekistan,Tashkent,Asia,34627652,431,59.9,8.7,18.6,1031,Maggi Desi Cheesy Masala,2724,3,Both,49.95,10.6,35,96,10,74,65,55,21,24,26,57
+Canada,190,190,190,200,200,39,CAN,Canada,Ottawa,North America,38454327,469,61.7,11.8,21.9,1041,"Maggi Hot Heads (Peri Peri, Chilli Chicken, Barbeque Pepper)",1025,2,Retail,16.92,5.2,84,8,27,15,58,4,94,26,21,53
+Sri Lanka,170,180,180,190,200,61,LKA,Sri Lanka,Colombo,Asia,21832143,469,61.7,11.8,21.9,1041,"Maggi Hot Heads (Peri Peri, Chilli Chicken, Barbeque Pepper)",1025,2,Retail,16.92,5.2,84,8,27,15,58,4,94,26,21,53
+Peru,160,160,160,170,170,44,PER,Peru,Lima,South America,34049588,469,58.9,11.2,17.7,957,Maggi Oats Noodles,3457,4,Both,16.99,10.3,53,75,26,69,77,81,80,4,5,7
+Ethiopia,80,80,120,130,140,12,ETH,Ethiopia,Addis Ababa,Africa,123379924,469,58.9,11.2,17.7,957,Maggi Oats Noodles,3457,4,Both,16.99,10.3,53,75,26,69,77,81,80,4,5,7
+Singapore,130,130,160,140,130,113,SGP,Singapore,Singapore,Asia,5975689,473,55.6,10.8,16.6,876,Maggi Chatpata Masala,4327,3,Online,40.43,7.8,75,20,25,14,80,33,26,3,90,77
+Kenya,50,60,80,100,130,27,KEN,Kenya,Nairobi,Africa,54027487,473,55.6,10.8,16.6,876,Maggi Chatpata Masala,4327,3,Online,40.43,7.8,75,20,25,14,80,33,26,3,90,77
+France,90,80,90,100,110,23,FRA,France,Paris,Europe,64626628,442,59.8,7.4,15.4,831,Maggi Chicken Noodles,3545,0,Online,46.96,9.8,53,7,76,78,74,85,88,79,66,52
+New Zealand,80,90,90,90,100,123,NZL,New Zealand,Wellington,Oceania,5185288,442,59.8,7.4,15.4,831,Maggi Chicken Noodles,3545,0,Online,46.96,9.8,53,7,76,78,74,85,88,79,66,52
+Spain,70,70,80,90,90,30,ESP,Spain,Madrid,Europe,47558630,428,63.9,8.6,17.4,877,Maggi No Onion No Garlic,4813,2,Both,40.64,11.3,26,74,67,18,45,72,28,95,66,70
+Czech Republic,60,70,70,70,70,88,CZE,Czech Republic,Prague,Europe,10493986,457,59,7.2,21.5,1105,"Maggi Pazzta (Cheese Macaroni, Mushroom Penne, Spicy Tomato)",4730,4,Both,44.28,5.9,12,10,20,16,21,85,41,71,26,55
+Iran,50,50,60,60,70,17,IRN,Iran,Tehran,Asia,88550570,474,61.2,10.4,17,1161,Maggi Nutri-licious Atta Masala,2210,3,Retail,33.69,15.7,81,44,42,49,16,52,85,40,50,12
+Sweden,40,50,60,60,60,87,SWE,Sweden,Stockholm,Europe,10549347,435,56,11.4,15.7,920,Maggi 2-Minute Noodles (Classic Masala),1663,1,Retail,14.38,10.8,64,25,96,43,91,32,62,29,64,56
+Netherlands,50,50,50,50,60,71,NLD,Netherlands,Amsterdam,Europe,17564014,453,55.3,8.6,17.6,1055,Maggi Veg Atta Noodles,618,3,Online,26.54,7.8,26,99,59,14,71,15,55,2,15,8
+Chile,30,30,20,50,60,65,CHL,Chile,Santiago,South America,19603733,422,61,10.2,17.5,1180,Maggi Nutri-licious Atta Masala,501,1,Retail,34.37,16.1,12,76,97,84,34,3,41,91,47,4
+Serbia,30,30,20,50,50,105,SRB,Serbia,Belgrade,Europe,7221365,422,61,10.2,17.5,1180,Maggi Nutri-licious Atta Masala,501,1,Retail,34.37,16.1,12,76,97,84,34,3,41,91,47,4
+Colombia,20,20,20,20,50,28,COL,Colombia,Bogota,South America,51874024,442,57.4,8,19.9,837,Maggi Chicken Noodles,2453,2,Both,29.88,10.4,78,33,92,69,49,10,14,39,64,44
+Italy,20,20,30,40,40,25,ITA,Italy,Rome,Europe,59037474,429,61.6,10.5,21.8,931,"Maggi Chinese Noodles (Chowmein, Schezwan, Manchurian)",1912,2,Online,22.8,10.7,41,12,75,65,66,64,32,91,11,79
+Hungary,30,40,40,40,40,94,HUN,Hungary,Budapest,Europe,9967308,434,64.1,11.5,21.5,1113,Maggi Oats Noodles,3878,4,Both,25.3,9.5,44,81,95,41,6,66,11,9,49,62
+Belgium,10,20,20,20,20,81,BEL,Belgium,Brussels,Europe,11655930,464,57.4,11.4,20.3,1072,Maggi Chatpata Masala,2490,2,Retail,21.62,17.6,99,84,61,34,89,83,77,3,74,55
+Denmark,20,20,10,10,20,115,DNK,Denmark,Copenhagen,Europe,5882261,464,57.4,11.4,20.3,1072,Maggi Chatpata Masala,2490,2,Retail,21.62,17.6,99,84,61,34,89,83,77,3,74,55
+Finland,10,20,20,20,20,118,FIN,Finland,Helsinki,Europe,5540745,464,57.4,11.4,20.3,1072,Maggi Chatpata Masala,2490,2,Retail,21.62,17.6,99,84,61,34,89,83,77,3,74,55
+Switzerland,10,10,10,10,20,101,CHE,Switzerland,Bern,Europe,8740472,478,60.8,8.4,19.9,983,Maggi Desi Cheesy Masala,710,4,Retail,37.58,19.3,60,12,85,3,73,53,38,5,65,86
+Argentina,10,10,0,20,10,33,ARG,Argentina,Buenos Aires,South America,45510318,464,60.6,9,19.7,1136,Maggi Chatpata Masala,3119,0,Online,30.33,17.3,21,81,46,48,88,21,36,10,56,46
+Costa Rica,10,10,10,20,10,124,CRI,Costa Rica,San José,North America,5180829,464,60.6,9,19.7,1136,Maggi Chatpata Masala,3119,0,Online,30.33,17.3,21,81,46,48,88,21,36,10,56,46
+Ukraine,320,340,320,350,10,38,UKR,Ukraine,Kiev,Europe,39701739,428,63.3,10.8,21.4,989,Maggi Nutri-licious Atta Masala,4037,1,Retail,31.45,15.1,3,70,11,71,5,21,32,83,22,66
